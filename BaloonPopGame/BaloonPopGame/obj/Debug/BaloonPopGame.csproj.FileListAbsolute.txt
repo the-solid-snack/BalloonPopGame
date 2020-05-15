@@ -1,0 +1,16 @@
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\bin\Debug\BaloonPopGame.exe.config
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\bin\Debug\BaloonPopGame.exe
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\bin\Debug\BaloonPopGame.pdb
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.csprojAssemblyReference.cache
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\MainWindow.g.cs
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\App.g.cs
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame_Content.g.cs
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame_MarkupCompile.cache
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame_MarkupCompile.lref
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\MainWindow.baml
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.g.resources
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.Properties.Resources.resources
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.csproj.GenerateResource.cache
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.csproj.CoreCompileInputs.cache
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.exe
+C:\Users\Greyfox\source\repos\BaloonPopGame\BaloonPopGame\obj\Debug\BaloonPopGame.pdb
